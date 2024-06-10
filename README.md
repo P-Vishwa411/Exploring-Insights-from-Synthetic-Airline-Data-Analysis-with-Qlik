@@ -12,3 +12,5 @@
 #### DAta Analysis Dashboard :- https://drive.google.com/file/d/1uA2vximG2dwlHMZOGscqqWQERX2lpQBE/view?usp=drive_link
 
 #### storytelling :-https://drive.google.com/file/d/19gzaoihAXRy_XYN1H5jLO6aoh95e1LnN/view?usp=drive_link
+
+#### project Explanation :- https://drive.google.com/file/d/1AmigzA4iLoY3v8FwKS5gJgXm93noB4ZJ/view?usp=drive_link
