@@ -5,7 +5,7 @@
 ## Scenario 2: Operational Efficiency
 ## Scenario 3: Customer Experience Enhancement
 
-Step-by-Step Process for Handling Null Values
+#######Step-by-Step Process for Handling Null Values
 Load the Dataset
 step1
 Load your dataset into the data management tool (e.g., Qlik, Excel, Python, etc.).
